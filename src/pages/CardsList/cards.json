@@ -1,0 +1,27 @@
+[
+    {
+        "sno": "1",
+        "cards": 12,
+        "pairs": 6
+    },
+    {
+        "sno": "2",
+        "cards": 16,
+        "pairs": 8
+    },
+    {
+        "sno": "3",
+        "cards": 20,
+        "pairs": 10
+    },
+    {
+        "sno": "4",
+        "cards": 24,
+        "pairs": 12
+    },
+    {
+        "sno": "5",
+        "cards": 30,
+        "pairs": 15
+    }
+]
